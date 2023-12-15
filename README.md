@@ -5,3 +5,7 @@ This is private implementation of the paper
 for Omnidirectional Cameras](https://arxiv.org/abs/2206.03928)
 
 
+### TODO
+
+- [ ] Implement the test bed
+- [ ] Make table performance
